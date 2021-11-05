@@ -27,5 +27,5 @@ function partida() {
             pontoc = pontoc + 1;
         }
         alert("Usuário: "+pontou+" pontos. \nComputador: "+pontoc+"pontos.");
-    } while(partida < 6);
+    } while(partida < 9);
 }
